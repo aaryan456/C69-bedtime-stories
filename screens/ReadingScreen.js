@@ -39,7 +39,7 @@ const styles = StyleSheet.create({
         margin:20,
         color:'white',
         fontSize:30,
-        marginTop:50
+        marginTop:60
     },
     storytitle : {
         margin:20,
@@ -49,7 +49,7 @@ const styles = StyleSheet.create({
     story:{
         marginLeft:30,
         marginRight:10,
-        fontSize:14,
+        fontSize:16,
         color:'white',
         marginTop:10,       
     },
@@ -57,7 +57,7 @@ const styles = StyleSheet.create({
         marginLeft:30,
         marginRight:10,
         fontSize:14,
-        color:'white',
+        color:'green',
         marginTop:10,   
         marginBottom:70    
     }
